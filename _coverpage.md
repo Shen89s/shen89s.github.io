@@ -6,7 +6,6 @@
 
 - 测试、单元测试、接口测试、自动化测试
 
-[Gitee](https://shen89s.github.io)
 [Mail](mailto:shenjb@thunisoft.com)
 [Github](https://github.com/Shen89s/shen89s.github.io)
 [Get Started](./README.md)
