@@ -9,5 +9,5 @@
 [Gitee](https://shen89s.github.io)
 [Mail](mailto:shenjb@thunisoft.com)
 [Github](https://github.com/Shen89s/shen89s.github.io)
-[Get Started](#shen89s.github.io)
+[Get Started](./README.md)
 
