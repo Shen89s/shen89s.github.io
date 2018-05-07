@@ -8,5 +8,5 @@
 
 [Mail](mailto:shenjb@thunisoft.com)
 [Github](https://github.com/Shen89s/shen89s.github.io)
-[Get Started](./README.md)
+[Get Started](#shen89sgithubio)
 
