@@ -2,7 +2,7 @@
 
 # shen89s.github.io
 
-> 天下皆白 <small>唯吾独黑</small> 测试一道 <em>似剑非攻</em>
+> <small>天下皆白 唯吾独黑</small> 测试一道 <em>似剑非攻</em>
 
 - 测试、单元测试、接口测试、自动化测试
 
