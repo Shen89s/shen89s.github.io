@@ -4,7 +4,7 @@
 
 > 天下皆白 唯吾独黑 测试一道 似剑非攻
 
-- 测试、单元测试、接口测试、自动化测试
+- Unit Test、Integration Test、System Test 、User Acceptance Test、API Test
 
 [Mail](mailto:shenjb@thunisoft.com)
 [Github](https://github.com/Shen89s/shen89s.github.io)
