@@ -14,10 +14,10 @@
     - [简介及安装](gitlab-ci/gitlab-ci-1.md)
     - [入门篇](gitlab-ci/gitlab-ci-2.md)
     
-- 测试篇
- 
-   - 单元测试
-   
-       - [单元测试介绍](mkdFiles/UnitTesting.md.md)
- 
 - 扯淡杂谈
+
+- 测试篇
+
+  - 单元测试
+  
+    - [Lombok 简介及使用](lombok/lombok-1.md)
