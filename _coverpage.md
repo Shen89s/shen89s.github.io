@@ -1,11 +1,11 @@
 <img width="200" height"200" rounded src="assets/logo.png">
 
-# 眼眶ぃ懵懂
+# shen89s.github.io
 
-> 一只 <small>不务正业</small> 的 <em>程序猿</em>
+> 一个 <small>不务正业</small> 的 <em>程序猿</em>
 
-- DevOps、Linux、Java、GoLang、Python
+- 测试、单元测试、接口测试、自动化测试
 
-[Weibo](https://weibo.com/KeveonWang)
-[Mail](mailto:keveon@keveon.com)
-[Github](https://github.com/keveon/keveon.github.io.git)
+[Weibo](https://shen89s.github.io)
+[Mail](mailto:shenjb@thunisoft.com)
+[Github](https://github.com/Shen89s/shen89s.github.io)
