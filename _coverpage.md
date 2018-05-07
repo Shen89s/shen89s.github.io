@@ -1,4 +1,4 @@
-<img width="200" height"200" rounded src="assets/logo4.png">
+<img width="200" height"200" rounded src="assets/logo.png">
 
 # shen89s.github.io
 
