@@ -1,6 +1,4 @@
-<img width="200" height"200" rounded src="assets/logo.png">
-
-# 大话测试
+<img width="450" height"250" rounded src="assets/logo.png">
 
 - Unit Test、Integration Test、System Test 、User Acceptance Test、API Test
 
