@@ -1,6 +1,6 @@
 - Friends
 
-  - [Kubernetes 镜像同步脚步](http://keveon.sh)
+  - [一只不务正业的程序猿](http://keveon.me)
   - [一只程序猿](http://hanfeng.me)
   - [蒲公英丶](http://pqsky.me)
   - [嘟嘟独立博客](http://tengj.top)
