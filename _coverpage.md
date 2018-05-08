@@ -2,7 +2,7 @@
 
 # 大话(**^▽^**)测试
 
-> <small>你把时间</small> 浪费 <small>在那里 那里就</small> 会 <em>开花结果</em>
+> <small>你把时间</small> 浪费 <small>在那里 那里就会</small><em> 开花结果 </em>
 
 - Unit Test、Integration Test、System Test 、User Acceptance Test、API Test
 
