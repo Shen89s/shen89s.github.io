@@ -18,4 +18,4 @@
     - [简介及安装](gitlab-ci/gitlab-ci-1.md)
     - [入门篇](gitlab-ci/gitlab-ci-2.md)
 
-- 扯淡杂谈
+- 大话测试
