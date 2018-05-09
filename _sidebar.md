@@ -19,9 +19,9 @@
   - 大话测试
 
     - [目录提纲](README.md)
+    - [读书笔迹20180507](books/变革者.md)
+    - [读书笔迹20180508](mkdFiles/UnitTesting.md)
+    - [读书笔迹20180509](books/测试简史.md)
 
-  - 读书笔迹
 
-    - [2018-05-08笔迹](books/测试简史.md)
-    - [2018-05-09笔迹](mkdFiles/UnitTesting.md)
-    - [2018-05-10笔迹](books/变革者.md)
+
