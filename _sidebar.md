@@ -10,7 +10,7 @@
     - [Java 开发中使用 Lombok 简化代码](lombok/lombok-2.md)
 
   - Kubernetes
- 
+
     - [镜像同步脚本](kubernetes/sync-scripts.md)
 
   - GitLab CI
@@ -21,10 +21,10 @@
 - Waring & Error & Personal
 
   - 大话测试
-  
+
     - [目录提纲](README.md)
-   
+
   - 读书笔迹
-  
-    - [2018-05-08-测试架构师修炼之道](books/测试简史.md)
-    - [2018-05-09-单元测试的艺术](books/变革者.md)
+
+    - [2018-05-08笔迹](books/测试简史.md)
+    - [2018-05-09笔迹](books/变革者.md)
