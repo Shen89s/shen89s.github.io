@@ -1,6 +1,6 @@
 - Dev & Test & Ops
 
-  - UnitTest
+ - UnitTest
 
     - [单元测试 介绍及使用](mkdFiles/UnitTesting.md)
 
@@ -20,11 +20,11 @@
 
 - Waring & Error & Personal
 
-  - 大话测试
+ - 大话测试
 
-    - [目录提纲](README.md)
+   - [目录提纲](README.md)
 
-  - 读书笔迹
+ - 读书笔迹
 
-    - [2018-05-08笔迹](books/测试简史.md)
-    - [2018-05-09笔迹](books/变革者.md)
+   - [2018-05-08笔迹](books/测试简史.md)
+   - [2018-05-09笔迹](books/变革者.md)
