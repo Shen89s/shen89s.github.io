@@ -7,6 +7,6 @@
 - Unit Test、Integration Test、System Test 、User Acceptance Test、API Test
 
 [Mail](mailto:shenjb@thunisoft.com)
-[Github](https://github.com/Shen89s/shen89s.github.io)
+[Github](https://github.com)
 [Get Started](#大话测试)
 
