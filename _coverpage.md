@@ -8,5 +8,5 @@
 
 [Mail](mailto:shenjb@thunisoft.com)
 [Github](https://github.com)
-[Get Started](#软件测试简史)
+[Get Started](books/测试简史.md)
 
