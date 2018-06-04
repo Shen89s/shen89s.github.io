@@ -18,7 +18,10 @@
     - [简介及安装](gitlab-ci/gitlab-ci-1.md)
     - [入门篇](gitlab-ci/gitlab-ci-2.md)
 
- - The Sound Of Test
+ - 大话测试
+   - [开场台词](books/大话测试.md)
+
+ - 读书笔迹
 
    - [180507-山中无老虎猴子称大王](books/大话测试.md)
    - [180508-迷茫的软件测试工程师](books/迷茫的软件测试工程师.md)
