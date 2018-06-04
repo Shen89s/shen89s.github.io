@@ -18,9 +18,7 @@
     - [简介及安装](gitlab-ci/gitlab-ci-1.md)
     - [入门篇](gitlab-ci/gitlab-ci-2.md)
 
-- Waring & Error & Personal
-
- - 大话测试
+ - The Sound Of Test
 
    - [180507-山中无老虎猴子称大王](books/大话测试.md)
    - [180508-迷茫的软件测试工程师](books/迷茫的软件测试工程师.md)
