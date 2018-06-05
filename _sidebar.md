@@ -18,14 +18,9 @@
     - [简介及安装](gitlab-ci/gitlab-ci-1.md)
     - [入门篇](gitlab-ci/gitlab-ci-2.md)
 
-- Waring & Error & Personal
+ - The Sound Of Test
 
- - 大话测试
-
-   - [开场台词](books/大话测试.md)
-
- - 读书笔迹
- 
+   - [180507弄死老虎当大王](books/大话测试.md)
    - [180508迷茫的软件测试工程师](books/迷茫的软件测试工程师.md)
    - [180511软件测试的职业发展方向](books/软件测试的职业发展方向1.md)
    - [180514软件测试工程师的职业规划建议](books/软件测试工程师的职业规划建议1.md)
