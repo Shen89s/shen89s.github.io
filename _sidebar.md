@@ -3,21 +3,16 @@
  - UnitTest
 
     - [单元测试 介绍及使用](mkdFiles/UnitTesting.md)
-
-[^_^]:  - Lombok
-
-[^_^]:    - [Lombok 简介及使用](lombok/lombok-1.md)
-[^_^]:    - [Java 开发中使用 Lombok 简化代码](lombok/lombok-2.md)
-
-[^_^]:  - Kubernetes
-
-[^_^]:    - [镜像同步脚本](kubernetes/sync-scripts.md)
-
-[^_^]:  - GitLab CI
-  
-[^_^]:    - [简介及安装](gitlab-ci/gitlab-ci-1.md)
-[^_^]:    - [入门篇](gitlab-ci/gitlab-ci-2.md)
-
+<!--
+  - Lombok
+    - [Lombok 简介及使用](lombok/lombok-1.md)
+    - [Java 开发中使用 Lombok 简化代码](lombok/lombok-2.md)
+  - Kubernetes
+    - [镜像同步脚本](kubernetes/sync-scripts.md)
+  - GitLab CI
+    - [简介及安装](gitlab-ci/gitlab-ci-1.md)
+    - [入门篇](gitlab-ci/gitlab-ci-2.md)
+-->
  - The Sound Of Test
 
    - [180507-弄死老虎占山为王](books/大话测试.md)
