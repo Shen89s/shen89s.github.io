@@ -1,6 +1,4 @@
-<img width="450" height"250" rounded src="assets/logo.png">
-<img width="450" height"250" src="https://shen89s.github.io/assets/logo.png">
-![](https://shen89s.github.io/assets/logo.png)
+<img src="https://shen89s.github.io/assets/logo.png" width=450 height=250 />
 
 # 大话(**^▽^**)测试
 
