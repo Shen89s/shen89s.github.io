@@ -7,6 +7,5 @@
 - Unit Test、Integration Test、System Test 、User Acceptance Test、API Test
 
 [Mail](mailto:shenjb@thunisoft.com)
-[Gitee](http://shen89s.gitee.io)
 [Get Started](#软件测试简史)
 
